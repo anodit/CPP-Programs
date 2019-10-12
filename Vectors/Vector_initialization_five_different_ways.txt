@@ -1,0 +1,5 @@
+1. Initializing by one by one pushing values.
+2. Specifying size and initializing all values. 
+3. Initializing like arrays.
+4. Initializing from array.
+5. Initializing from another vector.
