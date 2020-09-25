@@ -14,7 +14,7 @@ int main()
             break;
         }
     }
-    cout<<"Ans :"<<1ans<<endl;
+    cout<<"Ans :"<<ans<<endl;
     return 0;
 
 }
